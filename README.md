@@ -1,2 +1,2 @@
 # Buddy-Allocator
-Buddy Allocator C++
+Buddy Allocator in C
